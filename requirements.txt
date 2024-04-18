@@ -1,0 +1,9 @@
+# List of packages to be installed in the virtual environment
+
+numpy
+matplotlib
+scipy
+scikit-learn
+seaborn
+torch
+torchvision
